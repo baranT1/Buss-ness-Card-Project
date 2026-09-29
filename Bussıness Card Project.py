@@ -1,17 +1,17 @@
 #business card project
 correct_ID = 'BaranT'
 correct_pass = 'Baran21'
-print("====================================")
+print("=====================================")
 print("|                                   |")
 print("|       BUSSINESS CARD              |")
 print("|                                   |")
-print("====================================")
+print("=====================================")
 
 X = input('Id       :')
 Y = input('Password :')
 
 if X == correct_ID and Y == correct_pass :
-    print("====================================")
+    print("=======================================")
     print("|          login Successfuly          |")
     print("|      Name      : Baran              |")
     print("|      Surname   : Tekıner            |")
@@ -19,7 +19,7 @@ if X == correct_ID and Y == correct_pass :
     print("|      University: Ankara University  |")
     print("|      SCHOOL ID : 25210021           |")
     print("|                                     |")
-    print("====================================")   
+    print("=======================================")   
 
 else :
   
