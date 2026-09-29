@@ -12,7 +12,7 @@ Y = input('Password :')
 
 if X == correct_ID and Y == correct_pass :
     print("=======================================")
-    print("|          login Successfuly          |")
+    print("|          Login Successfuly          |")
     print("|      Name      : Baran              |")
     print("|      Surname   : Tekıner            |")
     print("|      City      : Ankara             |")
